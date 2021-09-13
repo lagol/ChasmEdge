@@ -1,5 +1,5 @@
 # ChasmEdge *Beta*
-![ChasmEdge Logo]()
+![ChasmEdge Logo](https://github.com/lagol/ChasmEdge/blob/main/icon.png)
 ## What is ChasmEdge?
 ChasmEdge is a fully functional picture management suite. It is completely free and open source. Currently ChasmEdge is only available for Mac, however, support for Linux and Windows is planned to be added in future releases. Please note that ChasmEdge is currently in beta. Further information on future releases and development progress may be found at the following locations:
 
