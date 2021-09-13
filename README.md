@@ -62,6 +62,6 @@ Selection Basket               | August 5, 2021      | 1.0.0.0
 
 ## Screenshots
 ### Startup
-![Startup]()
+![Startup](https://github.com/lagol/ChasmEdge/blob/main/screenshots/startscreen.png)
 ### In action
 ![In action]()
