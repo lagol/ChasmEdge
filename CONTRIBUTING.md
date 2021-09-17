@@ -1,0 +1,1 @@
+More detailled guidelines on how to contribute to the ChasmEdge project will be published in the future. Until then, if you'd like to contribute to the ChasmEdge project, please write me an email at [github@maxjacobi.com](mailto:github@maxjacobi.com).
