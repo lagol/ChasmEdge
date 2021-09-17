@@ -34,6 +34,16 @@ Selection Basket               | August 5, 2021      | 1.0.0.0
 * On startup in the image data section, the 'EXIF' Tab is selected but the 'General' Tab is shown
 
 ## Version Tracker
+### Beta Version 1.0.0.2
+*Bug Fixes*
+
+* Released September 17, 2021
+
+#### Bug Fixes:
+* Fixed a bug where Meta section didn't show Digitized Date [#1]
+* Fixed a bug where Meta section for Digitized had wrong caption assigned [#2]
+* Fixed a bug where Meta section was viewing wrong tab on startup
+
 ### Beta Version 1.0.0.1
 *Bug Fixes*
 
